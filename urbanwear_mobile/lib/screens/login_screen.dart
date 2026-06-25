@@ -80,7 +80,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     ],
                   ),
                   TextButton(
-                    on নিরাপদed: () {},
+                    onPressed: () {},
                     child: Text(
                       'Forgot Password?',
                       style: TextStyle(color: AppTheme.accentColor),
